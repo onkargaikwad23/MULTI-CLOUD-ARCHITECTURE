@@ -106,3 +106,4 @@ This architecture is scalable, cost-effective, and modular—demonstrating moder
 
 #output
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cf92898e-d56a-483d-9dc5-dd0bb82a5498" />
